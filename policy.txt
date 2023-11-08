@@ -1,0 +1,13 @@
+Digitomic Privacy Policy.
+
+contact email: digital.atomics00@gmail.com
+
+The app 'WaeV' will include read and write permissions to internal storage on the android device.
+
+Reading storage is required as the app needs to access folders and read .mp3 and .wav file types.
+
+Writing to storage is needed to set up the root folder within music and to subsequently allow the user to create playlists.
+
+Other than reading said files and folders, no data will be accessed from the user and an account is not required to use the app. 
+
+No data will therfore be stored out of device or transmitted anywhere.
