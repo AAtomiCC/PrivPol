@@ -1,13 +1,25 @@
-Digitomic Privacy Policy.
+Digitomic Privacy Policy
 
-contact email: digital.atomics00@gmail.com
+At Digitomic, the privacy of our users is of utmost importance. This Privacy Policy outlines the types of information that is collected and recorded by the 'WaeV' app and how we use it.
 
-The app 'WaeV' will include read and write permissions to internal storage on the android device.
+Contact Email: digital.atomics00@gmail.com
 
-Reading storage is required as the app needs to access folders and read .mp3 and .wav file types.
+Permissions & Usage of Data
 
-Writing to storage is needed to set up the root folder within music and to subsequently allow the user to create playlists.
+The 'WaeV' app is designed to function optimally on Android devices and requires certain permissions to operate effectively:
 
-Other than reading said files and folders, no data will be accessed from the user and an account is not required to use the app. 
+Read Access to Internal Storage: The app requires permission to read the contents of your device's internal storage. This is essential for the app to locate, access, and read audio files, specifically .mp3 and .wav formats, which are necessary for the app's core functionality.
 
-No data will therfore be stored out of device or transmitted anywhere.
+Write Access to Internal Storage: The app also requires permission to write to your device's internal storage. This allows 'WaeV' to create a root folder within the music directory. This capability is crucial for enabling users to create and manage playlists.
+
+Data Privacy & Account Creation
+
+The 'WaeV' app is designed to respect your privacy:
+
+The app will not access any data beyond the aforementioned file types and folders.
+No user account is required to use the 'WaeV' app, ensuring that your usage remains as private as possible.
+Data Storage & Transmission:
+
+The app does not store any data outside of the device.
+No data is transmitted from the device as a result of using the 'WaeV' app.
+
